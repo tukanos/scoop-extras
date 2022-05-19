@@ -1,10 +1,10 @@
 {
-    "version": "3.14.1",
+    "version": "3.20.0",
     "description": "A safe place for your notes, thoughts, and life's work.",
     "homepage": "https://standardnotes.org/",
     "license": "AGPL-3.0-or-later",
-    "url": "https://github.com/standardnotes/desktop/releases/download/v3.14.1/standard-notes-3.14.1-win.exe#/dl.7z",
-    "hash": "sha512:88fa83137f8c3ea84affdfea2bf601cba7ec77193bf45a6b4a16d6280ce5781c19cc06fc588b2003e0e4a92699c1f42a37d28f6085df5cd8e8ca2f02be9e6925",
+    "url": "https://github.com/standardnotes/desktop/releases/download/v3.20.0/standard-notes-3.20.0-win.exe#/dl.7z",
+    "hash": "sha512:6bf2205621dc0af78d6480b24d494f9b12767944f96fc97fe07cdde0171e2f83c44226144ee4059ab98c1964be8e3fb6180901369bb025d2caf9105eda7ac281",
     "architecture": {
         "64bit": {
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
