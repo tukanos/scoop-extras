@@ -1,5 +1,5 @@
 {
-    "version": "5.12.3.9638",
+    "version": "5.12.8.10232",
     "description": "Video and audio conferencing, chat, and webinars",
     "homepage": "https://zoom.us",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://zoom.us/client/5.12.3.9638/ZoomInstaller.exe?archType=x64#/dl.7z",
-            "hash": "968f859786d97df13fc320777dc56739238c44290da9f7d6c6e7b6dd5153b81c"
+            "url": "https://zoom.us/client/5.12.8.10232/ZoomInstaller.exe?archType=x64#/dl.7z",
+            "hash": "82360edb63a028c7912b777bb21c4b1fa37b3bed4daf9830875183fe75ca62af"
         },
         "32bit": {
-            "url": "https://zoom.us/client/5.12.3.9638/ZoomInstaller.exe?archType=x86#/dl.7z",
-            "hash": "97a21d9df724d0dbeef0148717bdf7907ea40f07500b55d5651042af9c25b27a"
+            "url": "https://zoom.us/client/5.12.8.10232/ZoomInstaller.exe?archType=x86#/dl.7z",
+            "hash": "016504fc44c43a0b96da35c44391b66f25c57d2fdc4d2af9c805f65482eb34bd"
         }
     },
     "pre_install": [
