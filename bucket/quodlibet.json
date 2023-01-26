@@ -1,11 +1,11 @@
 {
-    "version": "4.3.0",
+    "version": "4.5.0",
     "description": "Music player and music library manager.",
     "homepage": "https://quodlibet.readthedocs.io",
     "license": "GPL-2.0-only",
-    "url": "https://github.com/quodlibet/quodlibet/releases/download/release-4.3.0/quodlibet-4.3.0-portable.exe#/dl.7z",
-    "hash": "9e9df05ffab5cf5a759a7ff8bc75e323647db41a458f9ddad951ebfcac4a0ad7",
-    "extract_dir": "quodlibet-4.3.0-portable",
+    "url": "https://github.com/quodlibet/quodlibet/releases/download/release-4.5.0/quodlibet-4.5.0-portable.exe#/dl.7z",
+    "hash": "77603adf192c867b0be3a717d5f9453440845d92f2a891e10306876a2b8f40be",
+    "extract_dir": "quodlibet-4.5.0-portable",
     "bin": [
         [
             "data\\bin\\quodlibet-cmd.exe",
