@@ -1,13 +1,13 @@
 {
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "Grammar, style and spell checker for +25 languages.",
     "homepage": "https://languagetool.org/windows",
     "license": {
         "identifier": "LGPL-2.1-or-later",
         "url": "https://github.com/languagetool-org/languagetool/blob/master/COPYING.txt"
     },
-    "url": "https://languagetool.org/download/windows-app/LanguageTool-1.0.9.exe#/dl.7z",
-    "hash": "sha512:63756678e00b4a5a936c1817ce2ec28478ce2fc272a49ab5f8ecaad0c42c9a1cd19676883236869f3a84c2baf75e3a430fc65288db911022869080eb10b00946",
+    "url": "https://languagetool.org/download/windows-app/LanguageTool-1.0.10.exe#/dl.7z",
+    "hash": "sha512:844d63f5d76664260ec3009e71441d89d36b69991a3a71d605c0991c5d3904eaef32e92900939ec06fddd72e2853d56f5b2f8bac61c6b9d91655029715ff49f8",
     "architecture": {
         "64bit": {
             "installer": {
