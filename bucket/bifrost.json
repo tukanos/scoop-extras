@@ -1,5 +1,5 @@
 {
-    "version": "2.1.3",
+    "version": "2.1.4",
     "description": "Samsung Firmware Downloader",
     "homepage": "https://bifrost.zwander.dev/",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zacharee/Bifrost/releases/download/2.1.3/bifrost-2.1.3-windows-amd64.zip",
-            "hash": "0e11cf1d5f3d3790375cad341dcb3ebe784841ac6676ead8768aa8b6266f2517"
+            "url": "https://github.com/zacharee/Bifrost/releases/download/2.1.4/bifrost-2.1.4-windows-amd64.zip",
+            "hash": "472e4fcc290d4a403f5469814624bc895fff8883b342e4fad259d402c019f59d"
         },
         "arm64": {
-            "url": "https://github.com/zacharee/Bifrost/releases/download/2.1.3/bifrost-2.1.3-windows-aarch64.zip",
-            "hash": "56ce38349582a81d51015cb11486b63c0bceb02cceb3f8ff4d0ee4f4540a3e34"
+            "url": "https://github.com/zacharee/Bifrost/releases/download/2.1.4/bifrost-2.1.4-windows-aarch64.zip",
+            "hash": "61be0b5b6e5b9b2feb67c89d07b4e72a92f48cd6baacd577dfcefb7ea51abbef"
         }
     },
     "bin": "bin/Bifrost.exe",
